@@ -1,0 +1,16 @@
+{
+"users": [
+{"id": 1, "name": "Yonathan Lopez", "username": "MGMarines", "email": "yonathanlopez01@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},,
+{"id": 2, "name": "Tony Lopez", "username": "MGMarines", "email": "yonathanlopez01@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"},
+{"id": 3, "name": "Rayan Lopez", "username": "MGMarines", "email": "yonathanlopez01@gmail.com", "image": "https://i.ibb.co/ZH7356D/cody.jpg"}
+],
+  " publicaciones " : [
+    { " id " : 1 , " title " : "Vamos a darle una oportunidad", "body": "Por que no, vamos a darle...", "userId": 1 },
+    { " id " : 2 , " title " : "CodigoFacilito", "body": "Por que no, vamos a darle...", "userId": 2 },
+    { " id " : 3 , " title " : "Peru", "body": "Por que no, vamos a darle...", "userId": 3 },
+  ],
+  " comentarios " : [
+    { " id " : 1 , " body " : " algún comentario " , " postId " : 1 },
+    { " id " : 2 , " body " : " algún comentario " , " postId " : 1 }
+  ]
+}
